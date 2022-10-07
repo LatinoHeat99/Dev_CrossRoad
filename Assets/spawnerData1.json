@@ -1,0 +1,84 @@
+{
+    "datas": [
+        {
+            "StepNumber": 2,
+            "SpawnTimeMinMax": {
+                "x": 1.2000000476837159,
+                "y": 1.5
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 4,
+            "SpawnTimeMinMax": {
+                "x": 1.2999999523162842,
+                "y": 1.600000023841858
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 6,
+            "SpawnTimeMinMax": {
+                "x": 1.399999976158142,
+                "y": 1.7000000476837159
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 7,
+            "SpawnTimeMinMax": {
+                "x": 2.0,
+                "y": 0.0
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 9,
+            "SpawnTimeMinMax": {
+                "x": 1.2000000476837159,
+                "y": 1.5
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 10,
+            "SpawnTimeMinMax": {
+                "x": 1.2999999523162842,
+                "y": 1.5
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 11,
+            "SpawnTimeMinMax": {
+                "x": 3.0,
+                "y": 0.0
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 13,
+            "SpawnTimeMinMax": {
+                "x": 1.2000000476837159,
+                "y": 1.5
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 14,
+            "SpawnTimeMinMax": {
+                "x": 1.2000000476837159,
+                "y": 1.5
+            },
+            "SpeedRate": 20.0
+        },
+        {
+            "StepNumber": 16,
+            "SpawnTimeMinMax": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "SpeedRate": 20.0
+        }
+    ]
+}
